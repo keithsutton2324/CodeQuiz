@@ -9,10 +9,9 @@ If you answer a question incorrectly
 Time is subtracted from the clock
 When all questions are answered or the timer reaches 0
 The game is over
-When the game is over
-You can save my initials and score
+You can save your initials and score
 
-Link to deployed application:
+Link to deplyed application:
 https://keithsutton2324.github.io/CodeQuiz/
 
 APP screenshot:
