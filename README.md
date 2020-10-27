@@ -12,9 +12,8 @@ The game is over
 When the game is over
 You can save my initials and score
 
-APP location:
+Link to deployed application:
 https://keithsutton2324.github.io/CodeQuiz/
 
-APP Link:
-
 APP screenshot:
+../assets/CodingQuizScreenshot.pdf
